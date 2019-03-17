@@ -1,0 +1,13 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is CAA7-5CC0
+
+ Directory of g:\devops\firstjavagit
+
+03/17/2019  08:52 PM    <DIR>          .
+03/17/2019  08:52 PM    <DIR>          ..
+03/17/2019  08:51 PM               418 A.class
+03/17/2019  04:27 PM                99 firstprogram.java
+03/17/2019  08:46 PM               405 test1.txt
+03/17/2019  08:52 PM                 0 test2.txt
+               4 File(s)            922 bytes
+               2 Dir(s)  627,094,630,400 bytes free
